@@ -30,4 +30,10 @@ public class CoreBO {
 	public void compararProductos(String id){
 		
 	}
+	
+	public boolean validarProducto(List<Producto> productos) throws Exception{
+		boolean result = false;
+				
+		return  result;
+	}
 }
